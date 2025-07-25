@@ -639,4 +639,15 @@ input{
     .fo-ull{
         margin-top: 0px;
     }
+    .footer-icon-section{
+        margin-left: 29px;
+        marig
+        padding: 0px;
+    }
+    .footer-sub-section{
+    
+    justify-content: space-around;
+    padding: 50px 0px;
+  
+}
 }
