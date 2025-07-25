@@ -511,6 +511,9 @@ input{
         margin: 0px 20px;
     }
     /* card-section */
+    .our-plants{
+    margin-bottom:0rem;
+}
     .our-plan-titel{
         display:grid;
         margin: 0 auto;
@@ -525,7 +528,7 @@ input{
         flex-direction: column-reverse;
         grid-template-columns: repeat(1, 1fr);
         margin: 0px;
-        margin-top: -220px;
+        margin-top:20px;
     }
     .trusted{
         display: none;
@@ -629,7 +632,11 @@ input{
         display: grid;
     }
     .list-item{
+
         display: grid;
-        gap: 20px;
+        gap: 0px;
+    }
+    .fo-ull{
+        margin-top: 0px;
     }
 }
