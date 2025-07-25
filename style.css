@@ -10,7 +10,16 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+.HAFIZ{
+    font-size: 30px;
+}
 
+.hidden{
+    display: none;
+}
+.flex{
+    display: flex;
+}
 header{
     max-width: 1440px;
     margin: 0 auto;
@@ -27,13 +36,18 @@ header{
     margin: 30px 150px 109px 150px;
 }
 .nav-bar img{
-   width: 8.438rem;
-   height: 5.125rem;
+    padding: 0px;
+    margin: 0px;
+   /* width: 8.438rem;
+   height: 5.125rem; */
+   width: 63px;
+   height: 38px;
    
 }
 
+
 .ul{
-    padding: 18px 0px;
+    padding: 0px 0px;
     display: flex;
     list-style: none;
     /* justify-content: space-around; */
@@ -76,10 +90,13 @@ i{  margin: 0;
 
    
 }
-.always-title{
+.always-imges{
+    /* width: 100%; */
+}
+/* .always-title{
     width: 570px;
     height: 299px;
-}
+} */
 .always-header{
     margin: 0;
     padding: 0;
@@ -108,7 +125,7 @@ main{
 }
 
 .our-plants{
-    margin-bottom:17.5rem;
+    margin-bottom:09.5rem;
 }
 .our-plan-titel{
     display: grid;
@@ -599,13 +616,13 @@ input{
         margin-left: 30px;
     }
     .sub{
-        width: 103px;
+        width: 100px;
     }
 
     /* footer-section */
 
     .footer{
-        margin-bottom: 1500px;
+        /* margin-bottom: 1500px; */
     }
 
     .footer-sub-section{
